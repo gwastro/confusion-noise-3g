@@ -1,4 +1,4 @@
-## A mock data study for 3G ground-based detectors: the performance loss of matched filtering due to the correlated confusion noise
+## A mock data study for 3G ground-based detectors: the performance loss of matched filtering due to correlated confusion noise
 
 Shichao Wu <sup>1,2</sup> and Alexander H. Nitz <sup>1,2</sup>
 
