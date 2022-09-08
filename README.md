@@ -24,6 +24,19 @@ This repository is licensed under [GNU General Public License v3.0](https://gith
 We encourage use of these scripts in derivative works. If you use the material provided here, please cite the paper using the reference:
 
 ```
-@article{
+@ARTICLE{2022arXiv220903135W,
+       author = {{Wu}, Shichao and {Nitz}, Alexander H.},
+        title = "{A mock data study for 3G ground-based detectors: the performance loss of matched filtering due to correlated confusion noise}",
+      journal = {arXiv e-prints},
+     keywords = {Astrophysics - Instrumentation and Methods for Astrophysics, Astrophysics - High Energy Astrophysical Phenomena, General Relativity and Quantum Cosmology},
+         year = 2022,
+        month = sep,
+          eid = {arXiv:2209.03135},
+        pages = {arXiv:2209.03135},
+archivePrefix = {arXiv},
+       eprint = {2209.03135},
+ primaryClass = {astro-ph.IM},
+       adsurl = {https://ui.adsabs.harvard.edu/abs/2022arXiv220903135W},
+      adsnote = {Provided by the SAO/NASA Astrophysics Data System}
 }
 ```
