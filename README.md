@@ -11,7 +11,7 @@ The next-generation (3G/XG) ground-based gravitational-wave (GW) detectors such 
 
 ## Folders and Scripts
 
-This repository contain the main scripts used in [our paper](). Some key codes or functions called by these scripts have been written into `PyCBC`, such as [`population.population_models`](https://github.com/gwastro/pycbc/blob/master/pycbc/population/population_models.py), [`pycbc_brute_bank`](https://github.com/gwastro/pycbc/blob/master/bin/bank/pycbc_brute_bank), [`distributions.external`](https://github.com/gwastro/pycbc/blob/master/pycbc/distributions/external.py), [`distributions.utils`](https://github.com/gwastro/pycbc/blob/master/pycbc/distributions/utils.py), and [`psd.read`](https://github.com/gwastro/pycbc/blob/master/pycbc/psd/read.py) modules.
+This repository contain the main scripts used in [our paper](https://arxiv.org/abs/2209.03135). Some key codes or functions called by these scripts have been written into `PyCBC`, such as [`population.population_models`](https://github.com/gwastro/pycbc/blob/master/pycbc/population/population_models.py), [`pycbc_brute_bank`](https://github.com/gwastro/pycbc/blob/master/bin/bank/pycbc_brute_bank), [`distributions.external`](https://github.com/gwastro/pycbc/blob/master/pycbc/distributions/external.py), [`distributions.utils`](https://github.com/gwastro/pycbc/blob/master/pycbc/distributions/utils.py), and [`psd.read`](https://github.com/gwastro/pycbc/blob/master/pycbc/psd/read.py) modules.
  * `dataset_sim`: scripts to generate CE and ET mock datasets.
  * `figure_notebooks`: notebooks to generate all figures in our paper (BE PUBLIC ONCE PAPER IS ACCEPTED).
  * `search`: scripts to search our mock datasets.
