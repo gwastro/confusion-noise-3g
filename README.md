@@ -1,4 +1,4 @@
-## Mock data study for next-generation ground-based detectors: \\The performance loss of matched filtering due to correlated confusion noise
+## Mock data study for next-generation ground-based detectors: The performance loss of matched filtering due to correlated confusion noise
 
 Shichao Wu <sup>1,2</sup> and Alexander H. Nitz <sup>1,2</sup>
 
