@@ -26,22 +26,17 @@ This repository is licensed under [GNU General Public License v3.0](https://gith
 We encourage use of these scripts in derivative works. If you use the material provided here, please cite the paper using the reference:
 
 ```
-@ARTICLE{2023PhRvD.107f3022W,
-       author = {{Wu}, Shichao and {Nitz}, Alexander H.},
-        title = "{Mock data study for next-generation ground-based detectors: The performance loss of matched filtering due to correlated confusion noise}",
-      journal = {\prd},
-     keywords = {Astrophysics - Instrumentation and Methods for Astrophysics, Astrophysics - High Energy Astrophysical Phenomena, General Relativity and Quantum Cosmology},
-         year = 2023,
-        month = mar,
-       volume = {107},
-       number = {6},
-          eid = {063022},
-        pages = {063022},
-          doi = {10.1103/PhysRevD.107.063022},
-archivePrefix = {arXiv},
-       eprint = {2209.03135},
- primaryClass = {astro-ph.IM},
-       adsurl = {https://ui.adsabs.harvard.edu/abs/2023PhRvD.107f3022W},
-      adsnote = {Provided by the SAO/NASA Astrophysics Data System}
+@article{Wu:2022pyg,
+    author = "Wu, Shichao and Nitz, Alexander H.",
+    title = "{Mock data study for next-generation ground-based detectors: The performance loss of matched filtering due to correlated confusion noise}",
+    eprint = "2209.03135",
+    archivePrefix = "arXiv",
+    primaryClass = "astro-ph.IM",
+    doi = "10.1103/PhysRevD.107.063022",
+    journal = "Phys. Rev. D",
+    volume = "107",
+    number = "6",
+    pages = "063022",
+    year = "2023"
 }
 ```
