@@ -1,4 +1,4 @@
-[![zenodo](https://zenodo.org/badge/DOI/10.5281/zenodo.7679096.svg)](https://zenodo.org/record/7679096)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.7876821.svg)](https://doi.org/10.5281/zenodo.7876821)
 
 ## Mock data study for next-generation ground-based detectors: The performance loss of matched filtering due to correlated confusion noise
 
